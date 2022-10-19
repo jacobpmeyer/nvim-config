@@ -7,6 +7,9 @@ local servers = {
 	"bashls",
 	"jsonls",
 	"yamlls",
+	"solargraph",
+	"marksman",
+	-- "rubocop",
 }
 
 local settings = {
